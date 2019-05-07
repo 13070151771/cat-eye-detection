@@ -1,5 +1,5 @@
 基于yolov3的猫眼目标检测
-
+添加map部分。windows可运行
 1. Download YOLOv3 weights from [YOLO website](http://pjreddie.com/darknet/yolo/).
 2. Convert the Darknet YOLO model to a Keras model.
 3. Run YOLO detection.
