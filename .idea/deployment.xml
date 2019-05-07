@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="keras_yolov3">
+    <serverData>
+      <paths name="keras_yolov3">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/wangrui/keras-yolo3-master" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
